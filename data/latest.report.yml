@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:40:48Z
+  collectedAt: 2026-09-09T18:56:54Z
 timeline:
   created: 2025-10-29
   lastCommit: 2026-07-22
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 6171
+  star: 6173
   watcher: 44
-  fork: 603
+  fork: 602
   release: 0
   contributor: 42
   pullRequest: 48
@@ -87,7 +87,7 @@ total:
   commit: 67
 ---
 path: /home/runner/.x-repo/github.com/microsoft/fara
-collectedAt: 2026-09-09T04:40:50Z
+collectedAt: 2026-09-09T18:56:55Z
 loc:
   Html:
     code: 96403
