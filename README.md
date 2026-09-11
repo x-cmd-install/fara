@@ -32,7 +32,7 @@ Total: **129,009** lines of code across **134** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,175 · **Forks**: 602 · **Open issues**: 40 · **Contributors**: 42
+- **Stars**: 6,176 · **Forks**: 603 · **Open issues**: 40 · **Contributors**: 42
 
 ## Totals (cumulative)
 
@@ -58,4 +58,4 @@ Install metadata for fara lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:43:23Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:19:13Z._
