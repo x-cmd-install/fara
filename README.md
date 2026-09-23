@@ -4,7 +4,7 @@
 
 Fara1.5 – A family of frontier computer use agent models
 
-[![x-cmd/install — fara Code Quality Monitoring Repo Card](https://repo.x-cmd.io/fara.svg)](https://x-cmd.com/install/fara)
+[![x-cmd/install — fara Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/fara.svg)](https://x-cmd.com/install/fara)
 
 ## Install
 
@@ -36,18 +36,18 @@ Total: **129,009** lines of code across **134** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 30 · **Open PRs**: 14 · **Closed issues**: 12 · **Open issues**: 29 · **Commits**: 67
+- **Releases**: 0 · **Merged PRs**: 30 · **Open PRs**: 15 · **Closed issues**: 14 · **Open issues**: 27 · **Commits**: 67
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 4 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 7 | 0 | 4 | 0 |
-| 90d | 2026-06-24 | 0 | 1 | 7 | 0 | 6 | 12 |
-| last180d | 2026-03-26 | 0 | 8 | 12 | 1 | 10 | 26 |
-| 360d | 2025-09-27 | 0 | 30 | 14 | 12 | 29 | 49 |
-| last720d | 2024-10-02 | 0 | 30 | 14 | 12 | 29 | 67 |
+| 30d | 2026-08-24 | 0 | 0 | 5 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 8 | 0 | 4 | 0 |
+| 90d | 2026-06-25 | 0 | 1 | 8 | 0 | 6 | 12 |
+| last180d | 2026-03-27 | 0 | 8 | 13 | 2 | 9 | 26 |
+| 360d | 2025-09-28 | 0 | 30 | 15 | 14 | 27 | 49 |
+| last720d | 2024-10-03 | 0 | 30 | 15 | 14 | 27 | 67 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for fara lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:53:59Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:59:39Z._
