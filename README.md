@@ -32,7 +32,7 @@ Total: **129,009** lines of code across **134** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,259 · **Forks**: 609 · **Open issues**: 42 · **Contributors**: 37
+- **Stars**: 6,259 · **Forks**: 610 · **Open issues**: 42 · **Contributors**: 36
 
 ## Totals (cumulative)
 
@@ -42,12 +42,12 @@ Total: **129,009** lines of code across **134** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-22 | 0 | 0 | 2 | 0 | 1 | 0 |
-| 90d | 2026-08-23 | 0 | 0 | 7 | 0 | 2 | 0 |
-| last180d | 2026-05-25 | 0 | 2 | 10 | 1 | 7 | 15 |
-| 360d | 2025-11-26 | 0 | 15 | 17 | 10 | 23 | 35 |
-| last720d | 2024-12-01 | 0 | 30 | 17 | 14 | 28 | 67 |
+| 30d | 2026-10-23 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-23 | 0 | 0 | 2 | 0 | 1 | 0 |
+| 90d | 2026-08-24 | 0 | 0 | 7 | 0 | 2 | 0 |
+| last180d | 2026-05-26 | 0 | 2 | 10 | 1 | 7 | 15 |
+| 360d | 2025-11-27 | 0 | 15 | 17 | 9 | 21 | 35 |
+| last720d | 2024-12-02 | 0 | 30 | 17 | 14 | 28 | 67 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for fara lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:11:22Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T06:46:53Z._
